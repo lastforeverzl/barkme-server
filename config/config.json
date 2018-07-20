@@ -1,0 +1,8 @@
+{
+    "Host": "barkmedbinstance.cu7cojdfdvyd.us-west-1.rds.amazonaws.com",
+	"Port": "5432",
+	"User": "kipper",
+	"Password": "ZHANG1129324lei",
+	"Database": "BarkMeDb",
+	"FcmServerKey": "AAAAgm3Ii08:APA91bFMkYdkJxMogmv9NHq3r9mdMVZmUI6kul06rsikm7iJo5ZT6k3EwxGQJt0Z2lI4RmUwzxJOWD13EOCfUe-L7mxYxxYH1xz4-Q13PtwaXGZ5TMMgQfZidoWNRWWU-8YyAUA1HACmRhaGeRFMQOwDL9Qnk5VhSA"
+}
